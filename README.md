@@ -4,7 +4,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/Royincog.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Royincog?tab=followers)
 <br>
 <b>Instagram</b>
-<a href="https:https://www.instagram.com/the_berserkk/">
+<a href="https://www.instagram.com/the_berserkk/">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
 
